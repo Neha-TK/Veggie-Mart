@@ -17,4 +17,8 @@ Veggie Mart is a modern grocery delivery website that makes shopping for fresh f
 - **Icons:** React Icons  
 - **Design Tools:** Canva (for assets and branding)  
 
+
+
+[Live Demo](https://veggie-mart-njy3.vercel.app/)
+
   
