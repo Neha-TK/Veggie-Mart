@@ -19,6 +19,6 @@ Veggie Mart is a modern grocery delivery website that makes shopping for fresh f
 
 
 
-[Live Demo](https://veggie-mart-njy3.vercel.app/)
+View the Live Demo here: [Live Demo](https://veggie-mart-njy3.vercel.app/)
 
   
